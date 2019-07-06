@@ -1,0 +1,43 @@
+.container {
+    border: 2px solid cadetblue;
+    text-align: center;
+}
+
+h1 {
+    font-family: fantasy;
+    font-size: 50px;
+}
+
+.results {
+    border: 1px dashed red;
+    background-color: aqua;
+}
+
+#clicked-letters {
+    text-align: justify;
+    border: 5px solid green;
+    align-content: center;
+    height: 30px;
+    text-justify: auto;
+    margin-left: 10px;
+    margin: auto 0;
+    background-color: cornflowerblue;
+    color: yellow;
+}
+
+
+#left {
+    background-color: indianred;
+    color: bisque;
+}
+
+
+#psychic {
+    color: blueviolet;
+}
+
+#head {
+    background-image: url(../images/beige-tiles.png);
+    height: 150px;
+    background-color: black;
+}
