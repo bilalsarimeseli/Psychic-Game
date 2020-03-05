@@ -34,6 +34,9 @@ function game() {
 * [css]
 * [javascript]
 
+## Screenshot
+[interface](https://github.com/bilalsarimeseli/Psychic-Game/blob/master/assets/images/Screen%20Shot%202020-03-05%20at%204.20.01%20AM.png?raw=true)
+
 ## Author
 
 * **Bilal Sarimeseli** - *Github* - [Github](https://github.com/bilalsarimeseli)
