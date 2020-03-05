@@ -41,4 +41,7 @@ function game() {
 
 * **Bilal Sarimeseli** - *Github* - [Github](https://github.com/bilalsarimeseli)
 
+# LIVE HERE
+[Play](https://bilalsarimeseli.github.io/Psychic-Game/)
+
 
